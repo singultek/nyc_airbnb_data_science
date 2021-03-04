@@ -69,7 +69,8 @@ After completing the preprocessing steps, estimation of the price can be compute
 
 One can see from the results, the overall performances of the both models are not promising. Roughly, one can state that model represents the data with 50%, which can be considered barely as decent. Additional outcome of the table is that regularization terms doesn't help as much as expected. The explanation of this can be nearly underfitting model. Regularization is helpful technique to prevent the overfitting. In this case, both models are pretty far away from the overfitting and due to that reason, regularization is not affecting the performance of Linear Regression.
 
-```
+---
+
 
 ### About Author
 
