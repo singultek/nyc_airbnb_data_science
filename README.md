@@ -2,7 +2,7 @@
 
 **The Goal of Project**
 
-The goal of the project is examining the data exploration and visualization techniques and building a machine learning models, Linear Regression and Neural Networks, to predic Airbnb prices. 
+The goal of the project is examining the data exploration and visualization techniques and building a machine learning models, Linear Regression and Neural Networks, to predict Airbnb prices. 
 
 ---
 
