@@ -1,9 +1,11 @@
 # nyc_airbnb_data_science
 
 **The Goal of Project**
+
 The goal of the project is examining the data exploration and visualization techniques and building a machine learning models, Linear Regression and Neural Networks, to predic Airbnb prices. 
 
 ---
+
 **Table of Contents**
 
 * [Directory structure](#directory-structure)
@@ -12,7 +14,9 @@ The goal of the project is examining the data exploration and visualization tech
 * [About Author](#about-author)
 
 ---
+
 ## Directory structure
+
 ```
 .
 ├── Data
@@ -27,7 +31,9 @@ The goal of the project is examining the data exploration and visualization tech
 ```
 
 ---
+
 ## Explaination of project
+
 
 The project consists of 4 main parts:
 * Loading Data
