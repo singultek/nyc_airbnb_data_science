@@ -59,11 +59,11 @@ After completing the preprocessing steps, estimation of the price can be compute
 | Linear Regression with ElasticNet   |   0.3754    |    0.4997    |     0.5249    |
 | Neural Network                      |   0.3907    |    0.5114    |     0.4966    |
 
+3 metrics is based on the measuring the goodness of the predictions. Mean Absolute Error (MAE) is the distance between predictions and actual values. Root Mean Square Error (RMSE) that is the root of MSE (Mean Square Error). MSE is the distance between predictions and actual values. It shows how accurately the model predicts the response. R2 will be calculated to find the goodness of fit measure. 
+
+One can see from the results, the overall performances of the both models are not promising. Roughly, one can state that model represents the data with 50%, which can be considered barely as decent. Additional outcome of the table is that regularization terms doesn't help as much as expected. The explanation of this can be nearly underfitting model. Regularization is helpful technique to prevent the overfitting. In this case, both models are pretty far away from the overfitting and due to that reason, regularization is not affecting the performance of Linear Regression.
 
 ```
-  
-
-
 
 ### About Author
 
