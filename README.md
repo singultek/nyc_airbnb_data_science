@@ -24,8 +24,8 @@ The goal of the project is examining the data exploration and visualization tech
 │   ├── test_set_preprocessed.csv
 │   └── train_set_preprocessed.csv
 ├── Airbnb_Exploration_and_Data_Analysis.ipynb
-├── Prediction_of_Price.ipynb
 ├── LICENSE
+├── Prediction_of_Price.ipynb
 ├── README.md
 ├── requirements.txt
 ```
