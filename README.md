@@ -27,7 +27,7 @@ The goal of the project is examining the data exploration and visualization tech
 ├── LICENSE
 ├── Prediction_of_Price.ipynb
 ├── README.md
-├── requirements.txt
+└── requirements.txt
 ```
 
 ---
